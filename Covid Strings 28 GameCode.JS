@@ -23,7 +23,7 @@ random.button add actionlistener(new action listener)
 override 
 public actionperformed(actionevent e)
 random r= newrandom();
-colorpanel.setbackground(RNextInt(13),)(RNextInt(13),)(RNextInt(13),)(RNextInt(13),)(RNextInt(13),)(RNextInt(13),)(RNextInt(13),)(RNextInt(13),(RNextInt(13),(RNextInt(13),(RNextInt(13),(RNextInt(13),(RNextInt(13)))
+colorpanel.setbackground(rnextint(13),)(rnextint(13),)(rnextint(13),)(rnextint(13),)(rnextint(13),)(rnextint(13),)(rnextint(13),)(rnextint(13),(rnextint(13),(rnextint(13),(rnextint(13),(rnextint(13),(rnextint(13)))
 buttonpanel.add(optionButton);
 optionbutton.add actionlistener(new action listener)
 override 
@@ -93,7 +93,7 @@ log
 else:
 select from multiple choice
 if problem=multiple choice 
-select From multiple choice
+select from multiple choice
 else
 prompt 
 log
@@ -144,7 +144,7 @@ shift y axis
 else:
 remain
 if transformation==translation(2,18):
-Shift2 Units Right,18Units Up :
+shift2 units right,18units up :
 else:
 remain
 if (s1.length())!=s2.length: 
@@ -158,8 +158,8 @@ arrays.sort(arr2)
 for(int i=1; i<s1.length();i++)}
 string s11=s1.substring(0,i)
 strings12=s1.substring(i,s1.length());
-strings13=s1.Substring(i,s1.length()-i());
-strings21=s2.Substring(0,i)
+strings13=s1.substring(i,s1.length()-i());
+strings21=s2.substring(0,i)
 string22=s2.substring(0,s2.length()-i);
 if transformation==translation(8,5/4):
 shift8 units right5/4units up:
@@ -175,6 +175,15 @@ if selectedanswer=not correct:
 return false
 else:
 return true
+answer checker
+scanner=new scanner(system.in)
+string correct answer
+string useranswer=scanner.nextLine()
+if useranswer.equals((correctanswer))
+system.out.print.in(correct)
+else:
+system.out.printin(incorrect)
+scanner.close
 return filename
 
 
