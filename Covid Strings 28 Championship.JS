@@ -8,9 +8,11 @@ title covid strings28 championship round bracket
 link rel= stylesheet href =css 
 head
 body
-div id=bracket-container ></div>
-body
-html
+bracket-container {}
+matchup
+solid zero;
+padding 
+text align center 
 filename=covid strings28 championship.js
 championship game=(highest and lowest remaining seeds ) 
 team low seed=lowest remaining seed
@@ -34,7 +36,7 @@ question32
 question33
 advanceteams=slice(currentteams)
 result=declarewinner(team1 score, team2 score)
-if  team high seed score>=sixty:
+if team high seed score>=sixty:
 console.log(team high seed wins covid strings28)
 else:
 console.log(team low seed wins covid strings28)
