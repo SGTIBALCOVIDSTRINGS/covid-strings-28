@@ -141,7 +141,7 @@ shift270 degrees-counterclockwise
 else:
 remain
 if transformation(2,-6) ==reflection y axis:
-shift y axis
+sign. change x coordinate
 else:
 remain
 if transformation==translation(2,18):
