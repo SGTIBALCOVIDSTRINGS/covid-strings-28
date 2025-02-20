@@ -144,8 +144,12 @@ if transformation(2,-6) ==reflection y axis:
 sign. change x coordinate
 else:
 remain
-if transformation==translation(2,18):
+if transformation(-2,-6)==translation(2,18):
 shift2 units right,18units up :
+else:
+remain
+if transformation(0,12)==translation(8,5/4):
+shift8 units right 5/4 units up:
 else:
 remain
 if (s1.length())!=s2.length: 
