@@ -1,70 +1,70 @@
 doc.type.html
 script
 filename=covid strings 28 key words.js
-covid strings28 key word list=[long covid Symptom Answer,Covid Miracle,Covid Tracker, Limited To China,Shortened To,Abbreviation,Covid Freedom Number,NFL Covid Policy,Post Season Wise,A Stretch,Playoffs On The Table,Covid Ions, XFL,Covid Germs,Scrambled Stat Phrase,One Example,The Amount Of Money,]
-String=””
-For String In Covid Strings Search Word List
-Select Characters
-Edit Diffuse Property
-Desired Color=Green
-Covid Strings 28 Reference List=[A:Discovery Of COVID-19 Abzymes Sheds Light On Puzzling Long COVID Symptoms (Msn.Com),B:The Vaccine Miracle:How Scientists Waged The Battle Against Covid-19 | Coronavirus | The Guardian,C:Why Does SARS-CoV-2 Spread So Easily? (Medicalnewstoday.Com), D:Chevrolet Tracker (Americas) - Wikipedia,E:Red Flags: Why Xis China Is In Jeopardy - George Magnus - Google Books,F:2024 Chevrolet Trax Reviews, Pricings, And Specs (Caranddriver.Com),G:2019 Cadillac CTS Review, Pricing,And Specs (Caranddriver.Com),H:2021 Mazda CX-3 Review, Pricing,And Specs (Caranddriver.Com),
-I:NFL COVID Rules,Explained: Everything To Know About Coronavirus And Football In 2020 | Sporting News,J:NFL Alters Postseason Rule As COVID Cases Rise - Yahoo Sports,K:Volvo C30 - Wikipedia,L:NFL Owners Unanimously Approve Playoff Expansion If COVID-19 Forces Cancellation Of Meaningful Games,M:2003 Saturn Ion 3 (Caranddriver.Com),N:The XFL Just Shut Down And Declared Bankruptcy - SBNation.Com,O:When Germs Travel By Howard Markel: 9780375726026 | PenguinRandomHouse.Com: Books,P:COVID - Coronavirus Statistics - Worldometer (Worldometers.Info),Q:Biggest Fraud In A Generation:The Looting Of The Covid Relief Program Known As PPP (Nbcnews.Com),
-R:A Palace,A Yacht And A Hidden Fortune: How Putin Purportedly Maintains A Life Of Luxury | CNN Business]
-Asset=This App .Assets.Find()
-Template Asset Resource 
-Entity Template Instanite
-Entity Script Foobar =This Entity
-Entity Reparnet (This.Entity)
-A =Pc.CreateScript(A);
-A.Attributes.Add(Foobar,{Type:Entity});
-A.Prototype.Initialize =Function() {
-Console.Log(This.Foobar.Name);
-Asset=This App .Assets.Find()
-Template Asset Resource 
-Entity Template Instanite
-Entity Script Foobar =This Entity
-Entity Reparnet (This.Entity)
-B=Pc.CreateScript(B);
-B.Attributes.Add(Foobar,{Type:Entity});
-B.Prototype.Initialize =Function() {
-Console.Log(This.Foobar.Name);
-Asset=This App .Assets.Find()
-Template Asset Resource 
-Entity Template Instanite
-Entity Script Foobar =This Entity
-Entity Reparnet (This.Entity)
-C=Pc.CreateScript(C);
-C.Attributes.Add(Foobar,{Type:Entity});
-C.Prototype.Initialize =Function() {
-Console.Log(This.Foobar.Name);
-Asset=This App .Assets.Find()
-Template Asset Resource 
-Entity Template Instanite
-Entity Script Foobar =This Entity
-Entity Reparnet (This.Entity)
-D=Pc.CreateScript(D);
-D.Attributes.Add(Foobar,{Type:Entity});
-D.Prototype.Initialize =Function() {
-Console.Log(This.Foobar.Name);
-Asset=This App .Assets.Find()
-Template Asset Resource 
-Entity Template Instanite
-Entity Script Foobar =This Entity
-Entity Reparnet (This.Entity)
-E=Pc.CreateScript(E);
-E.Attributes.Add(Foobar,{Type:Entity});
-E.Prototype.Initialize =Function() {
-Console.Log(This.Foobar.Name);
-Asset=This App .Assets.Find()
-Template Asset Resource 
-Entity Template Instanite
-Entity Script Foobar =This Entity
-Entity Reparnet (This.Entity)
-F=Pc.CreateScript(F);
-F.Attributes.Add(Foobar,{Type:Entity});
-F.Prototype.Initialize =Function() {
-Console.Log(This.Foobar.Name);
-Asset=This App .Assets.Find()
+covid strings28 key word list=[long covid symptom answer,covid miracle,covid tracker,limited to china,shortened to,abbreviation,covid freedom number,nfl covid policy,post season wise,a stretch,playoffs on the table,covid ions,xfl,covid germs,scrambled stat phrase,one example,the amount of money,]
+string=””
+for string in covid strings search word list
+select characters
+edit diffuse property
+desired color=green
+covid strings 28 reference list=[a:discovery of covid-19 abzymes sheds light on puzzling long covid symptoms (msn.com),b:the vaccine miracle:how scientists waged the battle against covid-19 |coronavirus |the guardian,c:why does sars-cov-2 spread so easily? (medicalnewstoday.com),d:chevrolet tracker (americas) -wikipedia,e:red flags:why xis china is in jeopardy -george magnus -google books,f:2024 chevrolet trax reviews,pricings,and specs (caranddriver.com),g:2019 cadillac cts review,pricing,and specs (caranddriver.com),h:2021 mazda cx-3 review,pricing,and specs (caranddriver.com),
+i:nfl covid rules,explained:everything to know about coronavirus and football in 2020 |sporting news,j:nfl alters postseason rule as covid cases rise -yahoo sports,k:volvo c30 -wikipedia,l:nfl owners unanimously approve playoff expansion if covid-19 forces cancellation of meaningful games,m:2003 saturn ion 3 (caranddriver.com),n:the xfl just shut down and declared bankruptcy - sb nation.com,o:when germs travel by howard markel: 9780375726026 |penguin random house.com:books,p:covid-coronavirus statistics -worldometer (worldometers.info),q:biggest fraud in a generation:the looting of the covid relief program known as ppp (nbcnews.com),
+r:a palace,a yacht and a hidden fortune:how putin purportedly maintains a life of luxury |cnn business]
+asset=this app.assets.find()
+template asset resource 
+entity template instantiate
+entity script foobar =this entity
+entity reparnet (this.entity)
+a=pc.create script(a);
+a.attributes.add(foobar,{type:entity});
+a.prototype.initialize =function() 
+console.log(this.foobar.name);
+asset=this app.assets.find()
+template asset resource 
+entity template instantiate
+entity script foobar=this entity
+entity reparnet (this.entity)
+b=pc.create script(b);
+b.attributes.add(foobar,{type:entity});
+b.prototype.initialize=function() 
+console.log(this.foobar.name);
+asset=this app.assets.find()
+template asset resource 
+entity template instantiate
+entity script foobar =this entity
+entity reparnet (this.entity)
+c=pc.create script(c);
+c.attributes.add(foobar,{type:entity});
+c.prototype.initialize=function() 
+console.log(this.foobar.name);
+asset=this app.assets.find()
+template asset resource 
+entity template instantiate
+entity script foobar=this entity
+entity reparnet (this.entity)
+d=pc.create script(d);
+d.attributes.add(foobar,{type:entity});
+d.prototype.initialize=function() 
+console.log(this.foobar.name);
+asset=this app.assets.find()
+template asset resource 
+entity template instantiate
+entity script foobar=this entity
+entity reparnet (this.entity)
+e=pc.create script(e);
+e.attributes.add(foobar,{type:entity});
+e.prototype.initialize=function() 
+console.log(this.foobar.name);
+asset=this app.assets.find()
+template asset resource 
+entity template instantiate
+entity script foobar=this entity
+entity reparnet (this.entity)
+f=pc.create script(f);
+f.attributes.add(foobar,{type:entity});
+f.prototype.initialize=function() 
+console.log(this.foobar.name);
+asset=this app.assets.find()
 Template Asset Resource 
 Entity Template Instanite
 Entity Script Foobar =This Entity
