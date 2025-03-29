@@ -110,10 +110,10 @@ k.attributes.add(foobar,{type:entity});
 k.prototype.initialize=function() 
 console.log(this.foobar.name);
 asset=this app.assets.find()
-Template Asset Resource 
-Entity Template Instanite
-Entity Script Foobar =This Entity
-Entity Reparnet (This.Entity)
+template asset resource 
+entity template instantiate
+entity script foobar=this entity
+entity reparnet (this.entity)
 l=pc.create script(l);
 l.attributes.add(foobar,{type:entity});
 l.prototype.initialize=function() 
