@@ -114,29 +114,29 @@ Template Asset Resource
 Entity Template Instanite
 Entity Script Foobar =This Entity
 Entity Reparnet (This.Entity)
-L=Pc.CreateScript(L);
-L.Attributes.Add(Foobar,{Type:Entity});
-L.Prototype.Initialize =Function() {
-Console.Log(This.Foobar.Name);
-Asset=This App .Assets.Find()
-Template Asset Resource 
-Entity Template Instanite
-Entity Script Foobar =This Entity
-Entity Reparnet (This.Entity)
-M=Pc.CreateScript(M);
-M.Attributes.Add(Foobar,{Type:Entity});
-M.Prototype.Initialize =Function() {
-Console.Log(This.Foobar.Name);
-Asset=This App .Assets.Find()
-Template Asset Resource 
-Entity Template Instanite
-Entity Script Foobar =This Entity
-Entity Reparnet (This.Entity)
-N=Pc.CreateScript(N);
-N.Attributes.Add(Foobar,{Type:Entity});
-N.Prototype.Initialize =Function() {
-Console.Log(This.Foobar.Name);
-Asset=This App .Assets.Find()
+l=pc.create script(l);
+l.attributes.add(foobar,{type:entity});
+l.prototype.initialize=function() 
+console.log(this.foobar.name);
+asset=this app.assets.find()
+template asset resource 
+entity template instantiate
+entity script foobar=this entity
+entity reparnet (this.entity)
+m=pc.create script(m);
+m.attributes.add(foobar,{type:entity});
+m.prototype.initialize=function() 
+console.log(this.foobar.name);
+asset=this app.assets.find()
+template asset resource 
+entity template instantiate
+entity script foobar=this entity
+entity reparnet (this.entity)
+n=pc.create script(n);
+n.attributes.add(foobar,{type:entity});
+n.prototype.initialize=function() 
+console.log(this.foobar.name);
+asset=this app.assets.find()
 template asset resource 
 entity template instantiate
 entity script foobar=this entity
